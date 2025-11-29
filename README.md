@@ -14,7 +14,9 @@
 - (Know about RESPONSIVE WEB DESIGN )
 
 💻 **Code / Folder Link:**  
-static website ongoing :
+static website ongoing 
+
+</html>
 
 📸 **Screenshot / Output:**  
 - (Add image if any)
@@ -23,7 +25,7 @@ static website ongoing :
 - (example: difficulty with forms / flexbox / loops etc.)
 
 🎉 **Today’s Achievement:**  
-- (example: built my first webpage / understood flexbox)
+-[LEARN RESPONSIVE WEB DESIGNING]
 
 ---
 

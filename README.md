@@ -8,13 +8,13 @@
 
 ## 📆 Day 01 – Topic Name
 📚 **Topic Covered:**  
-- (example: HTML basics, tags, headings, paragraphs)
+- ( HTML and Css)
 
 📝 **Notes:**  
-- (write what new things you learned or understood today)
+- (Know about RESPONSIVE WEB DESIGN )
 
 💻 **Code / Folder Link:**  
-- `/Day01-HTML-basics`
+static website ongoing :
 
 📸 **Screenshot / Output:**  
 - (Add image if any)

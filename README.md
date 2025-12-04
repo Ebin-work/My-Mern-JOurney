@@ -29,7 +29,43 @@ static website ongoing
 
 ---
 
-## 📆 Day 02 – Topic Name
+## 📆 Day 02 – Fever
+📚 Topic:
+📝 Notes:
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+
+---
+## 📆 Day 03 – Fever
+📚 Topic:
+📝 Notes:
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+
+---
+## 📆 Day 04 – Project
+📚 Topic:HTML CSS
+📝 Notes: CCBP
+💻 Code link: GIT HUB INDEX1.HTML AND STYLE1.CSS
+📸 Screenshot:
+⚠ Challenges: INTEGRATION WITH NAVBAR TO WEBSITE
+🎉 Achievement: PERSONAL RESPONSVIE BOOTSTRAP FLEX BOX GRID INTEGRATION FOOTER
+
+---
+## 📆 Day 02 – 
+📚 Topic:
+📝 Notes:
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+
+---
+## 📆 Day 02 – 
 📚 Topic:
 📝 Notes:
 💻 Code link:

@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#nav-1 {
+    color: black;
+    padding: 32px;
+    font-size: 25px;
+    font-family: Roboto;
+}
+
+.image {
+    height: 10vh;
+    width: 10vh;
+    border-radius: 1000px;
+    object-fit: cover;
+    ;
+}
+
+#navitem-2 {
+    font-weight: bold;
+    font-size: 35px;
+    padding: 32px;
+}
+
+.card {
+    padding: 112px;
+    margin: 102px;
+    border-radius: 12px;
+}
+
+.paragraph {
+    font-size: 22px;
+    font-family: Roboto;
+}
+
+.button {
+    text-align: center;
+    padding: 8px;
+    margin: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+}
+
+.container {
+    text-align: center;
+}
+
+.button-1 {
+    text-align: center;
+    padding: 8px;
+    margin: 12px;
+    border-radius: 12px;
+    background-color: transparent;
+}
+
+.container-1 {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 27px;
+    background-color: red;
+    padding: 12px;
+    color: white;
+    height: 100vh;
+}
+
+.container-2 {
+    text-align: center;
+    font-family: Roboto;
+}
+
+.container-last {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 32px;
+}
+
+.card-last {
+    padding: 32px;
+    background-color: red;
+    margin: 12px;
+    color: white;
+    border-radius: 12px;
+}

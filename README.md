@@ -56,8 +56,8 @@ static website ongoing
 🎉 Achievement: PERSONAL RESPONSVIE BOOTSTRAP FLEX BOX GRID INTEGRATION FOOTER
 
 ---
-## 📆 Day 02 – 
-📚 Topic:
+## 📆 Day 05- Python
+📚 Topic:Loop -Valid Password Problms 
 📝 Notes:
 💻 Code link:
 📸 Screenshot:

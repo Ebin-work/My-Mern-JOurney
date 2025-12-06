@@ -66,7 +66,8 @@ static website ongoing
 
 ---
 ## 📆 Day 06 –Python  
-📚 Topic:Looop-palindrome problem ,remove vovels in senetence,letter,didgit ,pecial character
+📚 Topic:Looop-palindrome problem ,remove vovels in senetence,letter,didgit ,pecial character 
+    DSA: Time complexity 2 problems 
 📝 Notes:ccbp
 💻 Code link:
 📸 Screenshot:

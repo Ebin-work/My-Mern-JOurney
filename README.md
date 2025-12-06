@@ -65,9 +65,9 @@ static website ongoing
 🎉 Achievement:
 
 ---
-## 📆 Day 02 – 
-📚 Topic:
-📝 Notes:
+## 📆 Day 06 –Python  
+📚 Topic:Looop-palindrome problem ,remove vovels in senetence,letter,didgit ,pecial character
+📝 Notes:ccbp
 💻 Code link:
 📸 Screenshot:
 ⚠ Challenges:

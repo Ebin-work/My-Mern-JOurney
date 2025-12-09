@@ -76,7 +76,23 @@ static website ongoing
 
 ---
 
-## 📎 Weekly Summary (Every Sunday)
-✨ What I learned this week:  
-🔥 Mini project completed:  
-📍 Skills improved:
+## 📎 Week-2 Summary 
+✨ What I learned this week:  RESPONSIVE WEB DESIGN ,LISTS ,TIME COMPLEXITY 
+🔥 Mini project completed:  PERSONAL PORTFOLIO 
+📍 Skills improved: PYTHON 
+
+## 📆 Day 08 –Python  
+📚 Topic: LOOPS problems
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+
+## 📆 Day 09   
+📚 Topic:Looop-sql assignments and loop exam
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:

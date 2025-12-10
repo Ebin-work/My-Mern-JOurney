@@ -96,3 +96,11 @@ static website ongoing
 📸 Screenshot:
 ⚠ Challenges:
 🎉 Achievement:
+
+## 📆 Day 10  
+📚 Topic:intro to js ,DOM event Fundamentals, Manipulating Html and css ,Project of Cat adn light Indexc.html stylec.css scriptc.js ,Counter app ,Primitive Datatype and Fundamentals
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:

@@ -104,3 +104,32 @@ static website ongoing
 📸 Screenshot:
 ⚠ Challenges:
 🎉 Achievement:
+
+## 📆 Day 11 
+📚 Topic:intro to js ,DOM event Fundamentals, Manipulating Html and css ,Project of Cat adn light Indexc.html stylec.css scriptc.js ,Counter app ,Primitive Datatype and Fundamentals
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+
+## 📆 Day 12  
+📚 Topic:loop control statement   problems 
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+
+## 📆 Day 13  
+📚 Topic:loop control statements problems 
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+
+## 📎 Week-3 
+✨ What I learned this week:Loop problems,Nested statements Problems 
+🔥 Mini project completed:no mini projects
+📍 Skills improved:problem solving in python  

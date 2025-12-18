@@ -133,3 +133,12 @@ static website ongoing
 ✨ What I learned this week:Loop problems,Nested statements Problems 
 🔥 Mini project completed:no mini projects
 📍 Skills improved:problem solving in python  
+
+## 📆 Day 16 
+📚 Topic:WORKING WITH LIST- modyfy list , objects  
+SPLIT A STRING - 
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:

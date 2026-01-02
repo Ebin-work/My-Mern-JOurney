@@ -142,3 +142,12 @@ SPLIT A STRING -
 📸 Screenshot:
 ⚠ Challenges:
 🎉 Achievement:
+
+## 📆 Day 16 
+📚 Topic:FUNCTIONS - solve mcq questions and problems   (4hr)  
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+

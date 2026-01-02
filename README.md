@@ -143,7 +143,7 @@ SPLIT A STRING -
 ⚠ Challenges:
 🎉 Achievement:
 
-## 📆 Day 16 
+## 📆 Day 17 
 📚 Topic:FUNCTIONS - solve mcq questions and problems   (4hr)  
 📝 Notes:ccbp
 💻 Code link:

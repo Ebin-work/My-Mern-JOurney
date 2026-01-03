@@ -151,3 +151,11 @@ SPLIT A STRING -
 ⚠ Challenges:
 🎉 Achievement:
 
+## 📆 Day 18  
+📚 Topic:FUNCTIONS PROBLEMS SOLVED AND MCQ PROBLEMS FOR (5HR) AND LECTURE OF THE BUIL IN FUNCTION AND INTRO TO RECURSION 1HR.
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+

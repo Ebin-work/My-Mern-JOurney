@@ -159,3 +159,17 @@ SPLIT A STRING -
 ⚠ Challenges:
 🎉 Achievement:
 
+
+📆 Day 19 
+📚 Topic:- Learn introduction of javascript 
+- Document object model (DOM), Targeting specific id ,HTML CSS manipulation 
+- Understand concept of a Counter Applications 
+
+DSA🛡️Day 1 
+* Learn C++ Basics
+📝 Notes:ccbp
+💻 Code link:
+📸 Screenshot:
+⚠ Challenges:
+🎉 Achievement:
+

@@ -173,3 +173,14 @@ DSA🛡️Day 1
 ⚠ Challenges:
 🎉 Achievement:
 
+📆 Day 20
+📚 Topic:- *Array and Dom Manipulate 
+*Accessing array 
+*Modifying array 
+*Finding array length
+*Array method 
+*Function expression 
+*Appending Html element 
+*GROCERY APPLICATION
+
+

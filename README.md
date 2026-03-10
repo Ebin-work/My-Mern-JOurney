@@ -183,4 +183,8 @@ DSA🛡️Day 1
 *Appending Html element 
 *GROCERY APPLICATION
 
+Day 21
+📚 Topic:- Object 
+access object,object destructuring , modifying object, function as values array as values 
+
 

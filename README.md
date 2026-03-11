@@ -188,3 +188,5 @@ Day 21
 access object,object destructuring , modifying object, function as values array as values 
 
 
+Day 21
+📚 Topic:- Guessing game ,color picker tool , addition game ,random color generation game 
